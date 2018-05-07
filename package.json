@@ -17,9 +17,7 @@
     ],
     "files": [
         "lib/*.d.ts",
-        "lib/*.js",
-        "style/img/*.png",
-        "style/*.css"
+        "lib/*.js"
     ],
     "license": "UNLICENSED",
     "dependencies": {
@@ -35,8 +33,7 @@
         "@jupyterlab/services": "^1.1.4",
         "@phosphor/coreutils": "^1.3.0",
         "@phosphor/messaging": "^1.2.2",
-        "@phosphor/widgets": "^1.5.0",
-        "sf-extension-a": "file:../ExtensionA"
+        "@phosphor/widgets": "^1.5.0"
     },
     "devDependencies": {
         "typescript": "^2.8.3"
